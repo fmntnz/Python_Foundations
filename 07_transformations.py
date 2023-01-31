@@ -1,15 +1,15 @@
-name = "Nicolas"
+name = "Freddy"
 print(type(name))
-name = 12
+name = 15
 print(type(name))
 name = True
 print(type(name))
 
-print("Nicolas" + " Molina")
+print("Freddy" + " Montañez")
 print(10 + 20)
-print("Nicolas" + "12")
+print("Freddy" + " 31")
 
-age = 12
+age = 31
 print("Mi edad es " + str(age))
 print(f"Mi edad es {age}")
 
