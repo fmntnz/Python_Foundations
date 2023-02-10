@@ -2,9 +2,9 @@ my_dict = {}
 print(type(my_dict))
 
 my_dict = {
-  'avion': "bla bla bla",
-  'name': 'Nicolas',
-  'last_name': 'Molina Monroy',
+  'avion': "un Objeto que vuela en el aire y lleva personas o cosas",
+  'name': 'Freddy',
+  'last_name': 'Montañez',
   'age': 87
 }
 

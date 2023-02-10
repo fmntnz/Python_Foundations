@@ -25,20 +25,7 @@ for key in product:
 for key, value in product.items():
   print(key, '=>', value)
 
-people = [
-  {
-    'name': 'nico',
-    'age': 34
-  },
-  {
-    'name': 'zule',
-    'age': 45
-  },
-  {
-    'name': 'santi',
-    'age': 4
-  }
-]
+people = [{'name': 'Fred','age': 31},{'name': 'Andre','age': 36},{'name': 'Gaby','age': 1}]
 
 for person in people:
   print('name =>', person['name'])
